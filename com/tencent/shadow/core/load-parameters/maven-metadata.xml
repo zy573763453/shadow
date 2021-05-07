@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tencent.shadow.core</groupId>
+  <artifactId>load-parameters</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0.12-4de02e2e-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210506061714</lastUpdated>
+  </versioning>
+</metadata>
